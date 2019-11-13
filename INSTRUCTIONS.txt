@@ -1,6 +1,8 @@
+[Domain Names](https://github.com/paulshorey/domain-names)
+
 # Instructions  
 
-In this folder, `all-sorted.js` is a list of domain name extensions. For each domain name extension, is a list of related words.  
+In this `domain-names` folder, `all-sorted.js` is a list of domain name extensions. For each domain name extension, is a list of related words.  
 
 I need help adding related words to each domain name extension.  
 
