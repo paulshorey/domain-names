@@ -51,3 +51,7 @@ When user types in any synonym of `writing, literature, magazine, newspaper, new
 
 So, to accomplish this, my list must contain the line:
 "ink": `lit, writing, literature, magazine, newspaper, news, media, multimedia, publish, `,
+
+
+## This is the file:
+[domains: all-sorted.js](https://raw.githubusercontent.com/paulshorey/domain-names/master/all-sorted.js)
