@@ -2,9 +2,9 @@
 
 # Instructions  
 
-In this `domain-names` folder, `all-sorted.js` is a list of domain name extensions. For each domain name extension, is a list of related words.  
+In this `domain-names` folder, **`all-sorted.js`** is a list of domain name extensions. For each domain name extension, is a list of related words.  
 
-I need help adding related words to each domain name extension.  
+#### I need help adding related words to each domain name extension.  
 
 Don't worry about breaking the format too much. I am good at fixing code syntax errors. :) But do try to keep the quotes and commas and colon characters in place as they are now.  
 
@@ -23,7 +23,7 @@ Review: If user searches for "school" or any synonym like "college, university",
   
 ---
   
-So, this is an easy job. It is just time consuming.  
+#### So, this is an easy job. It is just time consuming.  
   
 I need synonyms for about 500 of these extensions "com, net, org, gov, co, info, biz", and new ones like "lawyer, hotel, vip, win, top...".  
 The longer extensions like "accountant" and "vacations" don't need many synonyms. 3 will suffice.
@@ -36,3 +36,18 @@ There are actually about 800 extensions, but they don't all need synonyms. Some 
 Please add synonyms to each extension, in any random order. I will compare the difference. I can see what changed. 
 
 Review: each synonym is a word that the user may search (like SEO keywords). The domain extension "edu" is what the user will receive as a result. The user will receive one or many domain extensions, which match at least one of the keywords they search.
+
+---
+
+#### For example:
+
+"ltd": `inc, biz, business, corporation, registered, `,
+When the user types any word which is a synonym of inc, biz, business, corporation, or registered, they will get the extension "ltd".
+
+
+#### Another example, "ink":
+
+When user types in any synonym of `writing, literature, magazine, newspaper, news, media, multimedia, publish, book, author`, they will receive the domain extension ".ink".
+
+So, to accomplish this, my list must contain the line:
+"ink": `lit, writing, literature, magazine, newspaper, news, media, multimedia, publish, `,
