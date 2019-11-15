@@ -54,5 +54,5 @@ So, to accomplish this, my list must contain the line:
 
 ---
 
-## This is the file to edit:
+#### This is the file to edit:
 [domains: all-sorted.js](https://raw.githubusercontent.com/paulshorey/domain-names/master/all-sorted.js)
