@@ -56,3 +56,5 @@ So, to accomplish this, my list must contain the line:
 
 #### This is the file to edit:
 [domains: all-sorted.js](https://raw.githubusercontent.com/paulshorey/domain-names/master/all-sorted.js)
+
+You can download the file, edit it, and email it back to me. I will compare with previous version.
