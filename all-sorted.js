@@ -2,11 +2,11 @@ module.exports = {
 
   "com": ``,
   "net": ``,
-  "org": ``,
-  "co": `business, firm, agency,`,
+  "org": `organization, organisation, nonprofit, charity, faith, church, mosque, program, education, give, love, Catholic, Islam, temple,synagogue, religion, Jewish, cause, activism`,
+  "co": `business, firm, agency, biz, money, market, sell, buy, stocks, invest, wholesale, yen, ren, yuan, peso, company, corp, corporation, retail, manufacture, industry, supplier, entrepreneur, enterprises, operation, venture, capital, partnership, incorporated, workplace, work, profit, enterprise, monopoly `,
 
     "info": `fyi,information,data, facts`,
-    "biz": `business, wholesale, buy, sell, market, stocks, investment, money`,
+    "biz": `business, wholesale, buy, sell, market, stocks, investment, money, business, firm, agency, biz, money, market, sell, buy, stocks, invest, wholesale, yen, ren, yuan, peso, company, corp, corporation, retail, manufacture, industry, supplier, entrepreneur, enterprises, operation, venture, capital, partnership, incorporated, workplace, work, profit, enterprise, monopoly`,
     "mobi": `mobile, phone, call`,
     "name": `nombre, brand, monicker, nickname, surname`,
     "tel": `phone, telephone, talk, communicate, text, personal, information, `,
