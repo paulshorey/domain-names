@@ -11,7 +11,7 @@ module.exports = {
   "name": `nombre, first, last, nominate, appoint, call, brand, monicker, nickname, surname, pseudonym, username, identification, person, identity, brand, profile,`,
   "tel": `phone, telephone, talk, communicate, text, personal, information, electronic `,
   "asia": `asian, china, india, chinese, indian, japan, japanese, korea, korean, nipponese`,
-  "travel": `go, move, tourism, ticket, flight, destination, vacation, visa, honeymoon,adventure, explore, fly, plane, journey, cruise, voyage, trip, trek, safari`,
+  "travel": `foreign, culture, new, international, world, cruise, ride, navigation, exotic, sail, car, road, gps, visit, go, move, tourism, ticket, flight, destination, vacation, visa, honeymoon,adventure, explore, fly, plane, journey, cruise, voyage, trip, trek, safari`,
   "museum": `curate, exhibit, art, show, gallery, display, archive`,
   "edu": `school, education, learn, classes, study, teach, university`,
   "xxx": `sex, porn, pornography`,
